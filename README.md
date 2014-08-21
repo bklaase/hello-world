@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-github tutorial
+aangepaste readme, met duidelijk verhaal. 
+ff webinterface leren kennen.
