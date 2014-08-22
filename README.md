@@ -1,5 +1,4 @@
 hello-world
 ===========
 
-aangepaste readme, met duidelijk verhaal. 
-ff webinterface leren kennen.
+dit is een test git repos, in branch: bug1
